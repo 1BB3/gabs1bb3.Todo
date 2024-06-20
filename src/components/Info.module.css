@@ -1,0 +1,15 @@
+.info {
+    width: 40rem;
+    margin: 1rem auto;
+}
+
+.info p {
+    font-style: italic;
+    text-align: end;
+    color: #47453e;
+    margin-bottom: 0px;
+}
+
+.info p.gabs {
+    text-align: center;
+}
